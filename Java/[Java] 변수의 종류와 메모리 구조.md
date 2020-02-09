@@ -1,6 +1,8 @@
 ## 전역, 지역, 클래스 변수를 자바의 메모리 구조와 관련해서 생각해보기
 
 
+<img src="https://user-images.githubusercontent.com/33534771/74100794-00363c80-4b76-11ea-9616-2a819e6dcb4b.png" width="35%"/>
+
 
 1. 메소드 영역
 
