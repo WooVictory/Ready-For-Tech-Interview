@@ -57,6 +57,8 @@ Choi -> 해시 함수 -> 5 // Lee와 해싱값 충돌.
 
 1. `Separate Chaining`
 
+<img src = "https://user-images.githubusercontent.com/33534771/74128107-bdc93a00-4c1f-11ea-9cfb-32f0035eee33.png" width="60%"/>
+
 - Key에 대한 index가 가리키는 자료구조를 LinkedList를 이용하는 방식이다.
 - index로 인해서 충돌이 발생하면 그 index가 가리키고 있는 LinkedList에 노드를 추가한다.
 - 데이터를 검색할 때, 선형 탐색을 하기 때문에 느리다는 단점이 있다. 
