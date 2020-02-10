@@ -1,5 +1,5 @@
 # Ready-For-Tech-Interview
-💻 신입 개발자로서 준비를 하기 위해 지식을 정리하는 공간 
+💻 신입 개발자로서 준비를 하기 위해 지식을 정리하는 공간 👨‍💻
 
 주관적인 지식이므로 다른 분들의 도움이 필요합니다. 
 
@@ -24,6 +24,11 @@
   - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
   - [[Data Structure] ArrayList vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Sturcture%5D%20ArrayList%20vs%20LinkedList.md)
   - [[Data Structure] Stack과 Queue](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Stack%EA%B3%BC%20Queue.md)
+  - [[Data Structure] Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Tree.md)
+  - [[Data Structure] Heap](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Heap.md)
+  - [[Data Structure] B Tree & B+ Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20B%20Tree%20%26%20B%2B%20Tree.md)
+  - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
+  - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
 
 ## 🔍 Design Pattern
 
