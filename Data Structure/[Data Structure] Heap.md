@@ -1,7 +1,7 @@
 ## Heap
 
-1. 개요
-2. 개념
+>1. 개요
+>2. 개념
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-
+<img src = "https://user-images.githubusercontent.com/33534771/74101428-04198d00-4b7d-11ea-859d-99999fe545c2.png" width="60%"/>
 
 
 
