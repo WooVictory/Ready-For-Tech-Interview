@@ -9,12 +9,25 @@
 ## 🔍 Algorithm
 
 ## 🔍 Android
+- [DI]()
+- [Dagger2]()
+
 
 ## 🔍 Computer Science
 
 - Database
 
 - Network
+  - [OSI 7 계층]()
+  - [TCP와 UDP의 차이]()
+  - [3-Way handshake]()
+  - [4-Way hadnshake]()
+  - [HTTP와 HTTPS 차이]()
+  - [Http 1.0, 1.1, 2.0 차이]()
+  - [쿠키와 세션]()
+  - [공개키 암호, 대칭키 암호]()
+  - [REST & RESTful]()
+  
 
 - OS
 
