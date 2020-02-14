@@ -9,12 +9,25 @@
 ## 🔍 Algorithm
 
 ## 🔍 Android
+- [DI]()
+- [Dagger2]()
+
 
 ## 🔍 Computer Science
 
 - Database
 
 - Network
+  - [OSI 7 계층]()
+  - [TCP와 UDP의 차이]()
+  - [3-Way handshake]()
+  - [4-Way hadnshake]()
+  - [HTTP와 HTTPS 차이]()
+  - [Http 1.0, 1.1, 2.0 차이]()
+  - [쿠키와 세션]()
+  - [공개키 암호, 대칭키 암호]()
+  - [REST & RESTful]()
+  
 
 - OS
 
@@ -40,7 +53,6 @@
 - [[Java] ==와 equals() 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%20%EC%B0%A8%EC%9D%B4.md)
 - [[Java] Wrapper Class](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Wrapper%20Class.md)
 - [[Java] 기본형과 참조형의 차이점]()
-- [[Java] Wrapper Class](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Wrapper%20Class.md)
 - [[Java] 오버라이딩과 오버로딩](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
 - [[Java] final 키워드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20final%20%ED%82%A4%EC%9B%8C%EB%93%9C.md)
 - [[Java] non-static 멤버와 static 멤버 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20non-static%20%EB%A9%A4%EB%B2%84%EC%99%80%20static%20%EB%A9%A4%EB%B2%84%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
