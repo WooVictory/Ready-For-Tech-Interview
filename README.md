@@ -18,10 +18,9 @@
 - Database
 
 - Network
-  - [OSI 7 계층]()
+  - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
   - [TCP와 UDP의 차이]()
-  - [3-Way handshake]()
-  - [4-Way hadnshake]()
+  - [3-Way handshake & 4-Way hadnshake](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/3%20way%20handshake.md)
   - [HTTP와 HTTPS 차이]()
   - [Http 1.0, 1.1, 2.0 차이]()
   - [쿠키와 세션]()
