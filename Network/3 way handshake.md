@@ -2,6 +2,7 @@
 
 TCP/IP 프로토콜을 이용하여 통신을 진행할 때, 두 종단 간 **정확한** 데이터 전송을 보장하기 위해 연결을 설정하는 과정이다.
 
+<img src="https://user-images.githubusercontent.com/33534771/75338886-d77ea880-58d2-11ea-84c3-f8b60663f9c6.png" width="60%"/>
 
 
 **[연결 과정]**
@@ -38,7 +39,7 @@ Sequence Number가 순차적인 숫자로 전송된다면 서버는 이전의 Co
 
 TCP/IP 프로토콜을 이용한 통신 과정에서는 위에서 언급했던 것처럼 3 way handshake 과정을 통해 연결을 설정하고 4 way handshake 과정을 통해 연결 설정을 해제한다.
 
-
+<img src="https://user-images.githubusercontent.com/33534771/75338959-ef562c80-58d2-11ea-99eb-1c09ec97e83a.png" width="60%"/>
 
 
 
