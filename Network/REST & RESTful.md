@@ -10,5 +10,3 @@ REST란 Representational State Transfer의 약자로 웹의 장점을 최대한 
 
 RESTful은 REST라는 아키텍처를 구현하는 웹 서비스를 나타내는 것으로 REST 원리를 따르는 시스템을 RESTful이라는 용어로 지칭한다.
 
-
-
