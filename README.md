@@ -15,9 +15,14 @@
 
 ## 🔍 Computer Science
 
-- Database
+- 💊 **Database**
+  - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
+  - [Key(키)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/Key(%ED%82%A4).md)
+  - [SQL Injection](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Injection.md)
+  - [SQL vs NoSQL](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20vs%20NoSQL.md)
+  - [이상(Anomaly)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md)
 
-- Network
+- 🧲 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
   - [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/TCP.md)
   - [UDP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/UDP.md)
@@ -33,7 +38,7 @@
 
 - Computer Architecture
 
-- Data Structure
+- 🚩 **Data Structure**
   - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
   - [[Data Structure] ArrayList vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Sturcture%5D%20ArrayList%20vs%20LinkedList.md)
   - [[Data Structure] Stack과 Queue](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Stack%EA%B3%BC%20Queue.md)
@@ -45,7 +50,7 @@
 
 ## 🔍 Design Pattern
 
-## 🔍 Java
+## 🖍 Java
 - [[Java] Call by value ve Call by Reference](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [[Java] String, StringBuilder, StringBuffer 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20String%2CStringBuilder%2CStringBuffer%20%EC%B0%A8%EC%9D%B4.md)
 - [[Java] 객체지향 프로그래밍](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%9C%EB%85%90.md)
