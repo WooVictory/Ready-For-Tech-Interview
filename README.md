@@ -19,19 +19,20 @@
   - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
   - [Key(키)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/Key(%ED%82%A4).md)
   - [SQL Injection](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Injection.md)
+  - [SQL - Join](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Join.md)
   - [SQL vs NoSQL](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20vs%20NoSQL.md)
   - [이상(Anomaly)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md)
+  - [인덱스(INDEX)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
+  - [트랜잭션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 - 🧲 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
   - [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/TCP.md)
   - [UDP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/UDP.md)
   - [3-Way handshake & 4-Way hadnshake](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/3%20way%20handshake.md)
-  - [HTTP와 HTTPS 차이]()
-  - [Http 1.0, 1.1, 2.0 차이]()
-  - [쿠키와 세션]()
-  - [공개키 암호, 대칭키 암호]()
-  - [REST & RESTful]()
+  - [HTTP와 HTTPS 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md)
+  - [공개키 암호, 대칭키 암호](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
+  - [REST & RESTful](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/REST%20%26%20RESTful.md)
   
 
 - OS
