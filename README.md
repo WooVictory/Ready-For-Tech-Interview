@@ -7,13 +7,18 @@
 
 
 ## 🔍 Algorithm
+- [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
+- [거품 정렬(Bubble Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
 
 ## 🔍 Android
-- [DI]()
-- [Dagger2]()
 
 
 ## 🔍 Computer Science
+
+
+- OS
+
+- Computer Architecture
 
 - 💊 **Database**
   - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
@@ -35,10 +40,6 @@
   - [REST & RESTful](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/REST%20%26%20RESTful.md)
   
 
-- OS
-
-- Computer Architecture
-
 - 🚩 **Data Structure**
   - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
   - [[Data Structure] ArrayList vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Sturcture%5D%20ArrayList%20vs%20LinkedList.md)
@@ -48,8 +49,6 @@
   - [[Data Structure] B Tree & B+ Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20B%20Tree%20%26%20B%2B%20Tree.md)
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
-
-## 🔍 Design Pattern
 
 ## 🖍 Java
 - [[Java] Call by value ve Call by Reference](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Call%20by%20Value%20vs%20Call%20by%20Reference.md)
@@ -74,6 +73,8 @@
 - [[Java] JVM](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20JVM.md)
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
+
+## 🔍 Design Pattern
 
 ## 🔍 Kotlin
 
