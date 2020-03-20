@@ -25,12 +25,11 @@
 
 ## 🔍 Computer Science
 
+- Computer Architecture
 
 - ⚡️ OS
   - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
   - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
-
-- Computer Architecture
 
 - 💊 **Database**
   - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
@@ -62,7 +61,9 @@
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
 
-## 🖍 Java
+## 📌 Language
+
+### 🍇 Java
 - [[Java] Call by value ve Call by Reference](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [[Java] String, StringBuilder, StringBuffer 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20String%2CStringBuilder%2CStringBuffer%20%EC%B0%A8%EC%9D%B4.md)
 - [[Java] 객체지향 프로그래밍](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%9C%EB%85%90.md)
@@ -85,10 +86,9 @@
 - [[Java] JVM](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20JVM.md)
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
+### 🥊 Kotlin
 
 ## 🔍 Design Pattern
-
-## 🔍 Kotlin
 
 ## 🔍 Interview
 
