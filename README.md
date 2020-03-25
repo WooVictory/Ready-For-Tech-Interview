@@ -11,6 +11,11 @@
 
 **since** : 2020.01.26
 
+## 🔍 Interview
+
+- [운영체제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
+- Android
+
 
 ## 🔍 Algorithm
 - [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
@@ -27,7 +32,7 @@
 
 - Computer Architecture
 
-- ⚡️ OS
+- ⚡️ OS(운영체제와 정보기술의 원리 책 정리)
   - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
   - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
@@ -90,7 +95,5 @@
 
 ## 🔍 Design Pattern
 
-## 🔍 Interview
 
-- 운영체제
 
