@@ -14,7 +14,7 @@
   - 운영되기 위한 주소 공간
   - Code, Data, Stack, Heap의 구조로 되어있는 독립된 메모리 영역.
 
-![os](/Users/woo/Downloads/os.png)
+<img src="https://user-images.githubusercontent.com/33534771/77537773-fe37fb00-6ee1-11ea-8def-4dd11523b5e7.png" />
 
 - 프로세스는 각각 독립된 메모리 영역(Code, Data, Stack, Heap)을 할당받는다.
 - 기본적으로 프로세스당 최소 1개의 스레드(메인 스레드)를 갖는다.
@@ -41,7 +41,7 @@
 - 프로세스의 특정한 수행 경로
 - 프로세스가 할당받은 자원을 이용하는 실행의 단위이다.
 
-![thread](/Users/woo/Downloads/thread.png)
+<img src="https://user-images.githubusercontent.com/33534771/77537866-232c6e00-6ee2-11ea-91dc-12dacf688276.png" />
 
 - 스레드는 프로세스 내에서 Stack은 따로 할당받고, Code, Data, Heap 영역은 공유한다.
 - 스레드는 프로세스 내의 주소 공간이나 자원(힙 공간 등)을 다른 스레드와 공유하면서 실행된다.
@@ -116,7 +116,7 @@ PC 값은 스레드가 명령어의 어디까지 수행했는지를 나타내게
 
 Q. 멀티 프로세스 대신 멀티 스레드를 사용하는 이유는?
 
-![multi](/Users/woo/Downloads/multi.png)
+<img src="https://user-images.githubusercontent.com/33534771/77537949-41926980-6ee2-11ea-90eb-569dc64faed5.png" />
 
 - 프로그램을 여러 개 키는 것보다 하나의 프로그램 안에서 여러 작업을 해결하는 것이 더욱 효율적이기 때문이다.
 
