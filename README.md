@@ -11,7 +11,7 @@
 
 **since** : 2020.01.26
 
-## 🔍 Interview
+## 👨‍⚕️ Interview
 
 - [운영체제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
 - Android
