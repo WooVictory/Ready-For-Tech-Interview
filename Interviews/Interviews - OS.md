@@ -363,7 +363,7 @@ Q. 멀티 프로세스 대신 멀티 스레드를 사용하는 이유는?
 
 > 참고
 >
-> - [뮤텍스(Mutex)와 세마포어(Semaphore)의 차이](https://worthpreading.tistory.com/90 [Worth spreading])
+> - [뮤텍스(Mutex)와 세마포어(Semaphore)의 차이](https://worthpreading.tistory.com/90)
 
 
 
