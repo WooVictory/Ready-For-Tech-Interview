@@ -24,6 +24,9 @@
 - [삽입 정렬(Insertion Sort](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).md)
 - [퀵 정렬(Quick Sort](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
 - [힙 정렬(Heap Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
+ - [이분 탐색(이진 탐색)]()
+ - [투포인터 알고리즘]()
+ - [트라이 자료구조]()
 
 ## 🔍 Android
 
@@ -65,6 +68,7 @@
   - [[Data Structure] B Tree & B+ Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20B%20Tree%20%26%20B%2B%20Tree.md)
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
+  - [Tree Map]()
 
 ## 📌 Language
 
