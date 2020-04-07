@@ -50,6 +50,8 @@
   - [이상(Anomaly)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md)
   - [인덱스(INDEX)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
   - [트랜잭션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+  - 추가 예정!
+  - [트랜잭션 격리수준]()
 
 - 🧲 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
