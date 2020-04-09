@@ -100,6 +100,8 @@
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
 ### 🥊 Kotlin
+- [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
+
 
 ## 🔍 Design Pattern
 
