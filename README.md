@@ -20,12 +20,14 @@
 ## 🔍 Algorithm
 - [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
 - [거품 정렬(Bubble Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
-- [병합 정렬(Merge Sort](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
-- [삽입 정렬(Insertion Sort](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).md)
-- [퀵 정렬(Quick Sort](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
+- [병합 정렬(Merge Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
+- [삽입 정렬(Insertion Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).md)
+- [퀵 정렬(Quick Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
 - [힙 정렬(Heap Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
+ - [투포인터 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+ - [순열](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+ - 아래 부분 추가 예정!
  - [이분 탐색(이진 탐색)]()
- - [투포인터 알고리즘]()
  - [트라이 자료구조]()
 
 ## 🔍 Android
@@ -48,6 +50,8 @@
   - [이상(Anomaly)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md)
   - [인덱스(INDEX)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
   - [트랜잭션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+  - 추가 예정!
+  - [트랜잭션 격리수준]()
 
 - 🧲 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
