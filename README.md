@@ -42,7 +42,9 @@
 <br>
 
 - 🙉 Operation System
-
+ - [프로세스와 스레드]()
+ - [동기화 문제]()
+ - [Context Switching]()
 
 
 <br>
