@@ -13,7 +13,6 @@
 
 ## 👨‍⚕️ Interview
 
-- [OS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
 - Android
 
 
@@ -41,11 +40,21 @@
 
 <br>
 
-- 🙉 Operation System
- - [프로세스와 스레드]()
- - [동기화 문제]()
- - [Context Switching]()
-
+- 🙉 **Operation System**
+  - [프로세스와 스레드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+  - [동기화 문제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%AC%B8%EC%A0%9C.md)
+  - [Context Switching](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/Context%20Switching.md)
+  - [교착 상태(Dead lock)]()
+  - [인터럽트]()
+  - [시스템 콜]()
+  - [CPU 스케줄링]()
+  - [스케줄러의 종류]()
+  - [동기와 비동기 차이]()
+  - [페이징, 세그멘테이션]()
+  - [페이지 교체 알고리즘]()
+  - [메모리]()
+  - [캐시의 지역성]()
+  
 
 <br>
 
