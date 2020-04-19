@@ -13,7 +13,7 @@
 
 ## 👨‍⚕️ Interview
 
-- [운영체제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
+- [OS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
 - Android
 
 
@@ -31,15 +31,23 @@
  - [트라이 자료구조]()
 
 ## 🔍 Android
-
+- [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [Activity Lifecycle](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Activity%20Lifecycle.md)
+- [Android에서 Enum 사용](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android%EC%97%90%EC%84%9C%20Enum%20%EC%82%AC%EC%9A%A9.md)
 
 ## 🔍 Computer Science
 
 - Computer Architecture
 
-- ⚡️ OS(운영체제와 정보기술의 원리 책 정리)
-  - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
-  - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+<br>
+
+- 🙉 Operation System
+ - [프로세스와 스레드]()
+ - [동기화 문제]()
+ - [Context Switching]()
+
+
+<br>
 
 - 💊 **Database**
   - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
@@ -53,6 +61,8 @@
   - 추가 예정!
   - [트랜잭션 격리수준]()
 
+<br>
+
 - 🧲 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
   - [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/TCP.md)
@@ -62,6 +72,7 @@
   - [공개키 암호, 대칭키 암호](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
   - [REST & RESTful](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/REST%20%26%20RESTful.md)
   
+  <br>
 
 - 🚩 **Data Structure**
   - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
@@ -74,6 +85,8 @@
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
   - [Tree Map]()
 
+<br>
+
 ## 📌 Language
 
 ### 🍇 Java
@@ -83,7 +96,7 @@
 - [[Java] 접근 제어 지시자](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%20%EC%A7%80%EC%8B%9C%EC%9E%90.md)
 - [[Java] ==와 equals() 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%20%EC%B0%A8%EC%9D%B4.md)
 - [[Java] Wrapper Class](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Wrapper%20Class.md)
-- [[Java] 기본형과 참조형의 차이점]()
+- [[Java] 기본형과 참조형의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%98%95%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [[Java] 오버라이딩과 오버로딩](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
 - [[Java] final 키워드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20final%20%ED%82%A4%EC%9B%8C%EB%93%9C.md)
 - [[Java] non-static 멤버와 static 멤버 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20non-static%20%EB%A9%A4%EB%B2%84%EC%99%80%20static%20%EB%A9%A4%EB%B2%84%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
@@ -103,6 +116,15 @@
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
 
+
+## Book
+- ⚡️ 운영체제와 정보기술의 원리 책 정리
+  - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
+  - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+
+<br>
+
+- Kotlin in action
 
 ## 🔍 Design Pattern
 
