@@ -13,7 +13,6 @@
 
 ## 👨‍⚕️ Interview
 
-- [OS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Interviews/Interviews%20-%20OS.md)
 - Android
 
 
@@ -41,11 +40,21 @@
 
 <br>
 
-- 🙉 Operation System
- - [프로세스와 스레드]()
- - [동기화 문제]()
- - [Context Switching]()
-
+- 🙉 **Operation System**
+  - [프로세스와 스레드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+  - [동기화 문제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%AC%B8%EC%A0%9C.md)
+  - [Context Switching](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/Context%20Switching.md)
+  - [교착 상태(Dead lock)]()
+  - [인터럽트]()
+  - [시스템 콜]()
+  - [CPU 스케줄링]()
+  - [스케줄러의 종류]()
+  - [동기와 비동기 차이]()
+  - [페이징, 세그멘테이션]()
+  - [페이지 교체 알고리즘]()
+  - [메모리]()
+  - [캐시의 지역성]()
+  
 
 <br>
 
@@ -117,14 +126,24 @@
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
 
 
-## Book
-- ⚡️ 운영체제와 정보기술의 원리 책 정리
+## 📚 Book
+책을 읽으며, 기록하는 공간입니다. 📖
+- ⚡️ **운영체제와 정보기술의 원리 책 정리**
   - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
   - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
 <br>
 
-- Kotlin in action
+- 🐿 **Kotlin in action**
+  - [코틀린 기초](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter2.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88/Basic.md)
+  - [함수 정의와 호출](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C.md)
+  - [클래스, 객체, 인터페이스](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter4.%ED%81%B4%EB%9E%98%EC%8A%A4%2C%EA%B0%9D%EC%B2%B4%2C%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/4%EC%9E%A5.md)
+  - [람다](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter5.%EB%9E%8C%EB%8B%A4%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/lamda.md)
+  - [코틀린 타입 시스템](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter6.%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/Chapter6.%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+  - [연산자 오버로딩](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter7.%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/7%EC%9E%A5.md)
+  - [고차 함수](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter8.%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98_%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%99%80%20%EB%B0%98%ED%99%98%20%EA%B0%92%EC%9C%BC%EB%A1%9C%20%EB%9E%8C%EB%8B%A4%20%EC%82%AC%EC%9A%A9/high%20order%20function.md)
+  - [제네릭](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4(Generics).md)
+  - [어노테이션과 리플렉션](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter10.%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC%20%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98/10%EC%9E%A5.md)
 
 ## 🔍 Design Pattern
 
