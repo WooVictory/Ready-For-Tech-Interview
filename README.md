@@ -27,7 +27,6 @@
  - [순열](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
  - 아래 부분 추가 예정!
  - [이분 탐색(이진 탐색)]()
- - [트라이 자료구조]()
 
 ## 🔍 Android
 - [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
@@ -92,6 +91,7 @@
   - [[Data Structure] B Tree & B+ Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20B%20Tree%20%26%20B%2B%20Tree.md)
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
+  - [Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
   - [Tree Map]()
 
 <br>
