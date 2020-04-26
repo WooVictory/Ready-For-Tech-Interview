@@ -53,5 +53,4 @@
 
 
 ## 참고
-
-\- [[자료구조] Trie(트라이)-1 : 기초 개념](https://the-dev.tistory.com/2)
+- [[자료구조] Trie(트라이)-1 : 기초 개념](https://the-dev.tistory.com/2)
