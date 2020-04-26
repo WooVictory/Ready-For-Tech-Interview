@@ -19,8 +19,7 @@
 
 
 
-
-<img src="/img/trie_sample.png" />
+<img src="https://woovictory.github.io/img/trie_sample.png" />
 
 
 
@@ -37,7 +36,7 @@
 
 
 
-<img src="/img/trie_sample2.png" />
+<img src="https://woovictory.github.io/img/trie_sample2.png"/>
 
 
 
