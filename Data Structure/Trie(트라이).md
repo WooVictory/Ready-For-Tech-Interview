@@ -19,8 +19,7 @@
 
 
 
-
-<img src="/img/trie_sample.png" />
+<img src="https://woovictory.github.io/img/trie_sample.png" />
 
 
 
@@ -37,7 +36,7 @@
 
 
 
-<img src="/img/trie_sample2.png" />
+<img src="https://woovictory.github.io/img/trie_sample2.png"/>
 
 
 
@@ -54,5 +53,4 @@
 
 
 ## 참고
-
-\- [[자료구조] Trie(트라이)-1 : 기초 개념](https://the-dev.tistory.com/2)
+- [[자료구조] Trie(트라이)-1 : 기초 개념](https://the-dev.tistory.com/2)
