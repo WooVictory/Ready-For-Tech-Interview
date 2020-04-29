@@ -10,6 +10,7 @@
 내용이 마음에 든다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
 
 **since** : 2020.01.26
+**Data** : 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
 
 ## 👨‍⚕️ Interview
 
@@ -98,7 +99,7 @@
 
 ## 📌 Language
 
-### 🍇 Java
+### 🐫 Java
 - [[Java] Call by value ve Call by Reference](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [[Java] String, StringBuilder, StringBuffer 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20String%2CStringBuilder%2CStringBuffer%20%EC%B0%A8%EC%9D%B4.md)
 - [[Java] 객체지향 프로그래밍](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B0%9C%EB%85%90.md)
@@ -121,7 +122,7 @@
 - [[Java] JVM](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20JVM.md)
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
-### 🥊 Kotlin
+### 🐬 Kotlin
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
 
