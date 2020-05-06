@@ -18,7 +18,7 @@
 - Android
 
 
-## 🔍 Algorithm
+## 🐳 Algorithm
 - [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
 - [거품 정렬(Bubble Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
 - [병합 정렬(Merge Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
@@ -27,10 +27,11 @@
 - [힙 정렬(Heap Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
  - [투포인터 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
  - [순열](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
- - 아래 부분 추가 예정!
- - [이분 탐색(이진 탐색)]()
+ - [BFS & DFS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/BFS%20%26%20DFS.md)
+ - [이분 탐색(Binary Search)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
+ 
 
-## 🔍 Android
+## 🦜 Android
 - [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [Activity Lifecycle](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Activity%20Lifecycle.md)
 - [Android에서 Enum 사용](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android%EC%97%90%EC%84%9C%20Enum%20%EC%82%AC%EC%9A%A9.md)
@@ -59,7 +60,7 @@
 
 <br>
 
-- 💊 **Database**
+- 🐼 **Database**
   - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
   - [Key(키)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/Key(%ED%82%A4).md)
   - [SQL Injection](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Injection.md)
@@ -73,7 +74,7 @@
 
 <br>
 
-- 🧲 **Network**
+- 🐷 **Network**
   - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
   - [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/TCP.md)
   - [UDP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/UDP.md)
@@ -84,7 +85,7 @@
   
   <br>
 
-- 🚩 **Data Structure**
+- 🐥 **Data Structure**
   - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
   - [[Data Structure] ArrayList vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Sturcture%5D%20ArrayList%20vs%20LinkedList.md)
   - [[Data Structure] Stack과 Queue](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Stack%EA%B3%BC%20Queue.md)
@@ -93,7 +94,7 @@
   - [[Data Structure] B Tree & B+ Tree](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20B%20Tree%20%26%20B%2B%20Tree.md)
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
-  - [Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
+  - [[Data Structure] Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
   - [Tree Map]()
 
 <br>
@@ -122,6 +123,7 @@
 - [[Java] int와 short](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20int%EC%99%80%20short.md)
 - [[Java] JVM](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20JVM.md)
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+- [[Java] Integer vs int size 비교](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/Integer%20vs%20int.md)
 
 ### 🐬 Kotlin
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
