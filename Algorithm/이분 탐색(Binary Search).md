@@ -71,5 +71,5 @@ public class BinarySearch {
 ### 참고
 
 - [[Java] 이진탐색(Binary Search)](https://blog.opid.kr/489)
-- [규글님 Github]([https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary Search.md))
+- [규글님 Github](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
 - [13. 이분 탐색 (Binary Search)](https://code0xff.tistory.com/32)
