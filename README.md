@@ -152,4 +152,8 @@
 ## 🔍 Design Pattern
 
 
+## 🦌 ETC
+
+
+- [AI 면접 완벽 분석](https://m.blog.naver.com/yankmo/221522024457)
 
