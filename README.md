@@ -1,4 +1,5 @@
 # Ready-For-Tech-Interview
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
 신입 개발자로서 준비하기 위해 지식을 정리하는 공간입니다. 😎
 
 다양한 지식들이 있으며, 지식의 확장 및 기술 면접에 도움이 되기를 바랍니다. 👨‍💻
