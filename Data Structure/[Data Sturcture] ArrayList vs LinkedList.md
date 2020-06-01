@@ -1,8 +1,15 @@
 ## Dynamic Array vs LinkedList
 
-++자료구조에 해당하는 파트이지만, 자바를 기반으로 설명을 진행했다. 그러다보니 Collection에서 사용하는 네이밍을 따라 ArrayList라고 표기를 했다. 필자의 글을 보고 있던 분의 조언으로 Dynamic Array로 네이밍을 변경한다.
+++2020.06.01
 
-자바에서는 ArrayList, C++에서는 Vector를 지칭한다.
+자료구조에 해당하는 파트이지만, 자바를 기반으로 설명을 진행했다. 
+
+그러다보니 Collection에서 사용하는 네이밍을 따라 ArrayList라고 표기를 했다. 
+
+필자의 글을 보고 있던 분의 조언으로 Dynamic Array로 네이밍을 변경한다.
+
+- Java : ArrayList
+- C++ : Vector
 
 기본적이면서도 면접 질문에 빠지지 않고 등장하는 단골 질문이다. 
 
