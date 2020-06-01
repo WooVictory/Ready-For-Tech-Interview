@@ -1,12 +1,15 @@
-## ArrrayList vs LinkedList
+## Dynamic Array vs LinkedList
+
+++자료구조에 해당하는 파트이지만, 자바를 기반으로 설명을 진행했다. 그러다보니 Collection에서 사용하는 네이밍을 따라 ArrayList라고 표기를 했다. 필자의 글을 보고 있던 분의 조언으로 Dynamic Array로 네이밍을 변경한다.
+
+자바에서는 ArrayList, C++에서는 Vector를 지칭한다.
 
 기본적이면서도 면접 질문에 빠지지 않고 등장하는 단골 질문이다. 
 
 그래서 정리하려 한다.
 
 
-
-- ArrayList
+- Dynamic Array(ArrayList)
   - 이름처럼 내부적으로 배열을 사용하여 데이터를 관리한다.
   - 인덱스를 가지고 있어 데이터 검색에 적합하고 속도가 빠르다.
     - 시간 복잡도 : O(1)
@@ -28,9 +31,9 @@
 
 
 
-따라서 데이터의 검색이 주가 되는 경우에는 ArrayList를 사용하는 게 좋다. 
+따라서 데이터의 검색이 주가 되는 경우에는 Dynamic Array(ArrayList)를 사용하는 게 좋다. 
 
-데이터의 삽입, 삭제가 빈번하다면 ArrayList보다는 LinkedList를 사용하는 편이 낫다.
+데이터의 삽입, 삭제가 빈번하다면 Dynamic Array(ArrayList)보다는 LinkedList를 사용하는 편이 낫다.
 
 ++추가
 
