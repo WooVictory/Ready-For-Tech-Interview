@@ -51,14 +51,14 @@
             }
         }
 
-   			// L과 R이 역전된 후에 피벗의 왼쪽과 오른쪽에는 정렬되지 않은 부분 배열이 남아있을 수 있다.
-   			// 이 경우, 남아 있는 부분 배열에 대해서 퀵 정렬을 수행한다.
+   	// L과 R이 역전된 후에 피벗의 왼쪽과 오른쪽에는 정렬되지 않은 부분 배열이 남아있을 수 있다.
+   	// 이 경우, 남아 있는 부분 배열에 대해서 퀵 정렬을 수행한다.
         if (left < R) quickSort(arr, left, R);
 
         if (L < right) quickSort(arr, L, right);
     }
 
-		// 입력 받은 원소의 자리를 교환해준다.
+    // 입력 받은 원소의 자리를 교환해준다.
     private static void swap(int[] arr, int left, int right) {
         int temp = arr[left];
         arr[left] = arr[right];
