@@ -1,6 +1,6 @@
 # Ready-For-Tech-Interview
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
-신입 개발자로서 준비하기 위해 지식을 정리하는 공간입니다. 😎
+신입 개발자로서 필요한 지식을 정리하는 공간입니다. 😎
 
 다양한 지식들이 있으며, 지식의 확장 및 기술 면접에 도움이 되기를 바랍니다. 👨‍💻
 
@@ -10,7 +10,7 @@
 
 내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
 
-**since** : 2020.01.26
+**since** : 2020.01.26 ~ ing
 
 **Date**
 - 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
