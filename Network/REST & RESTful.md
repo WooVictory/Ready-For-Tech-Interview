@@ -1,6 +1,6 @@
 ## REST & RESTful이란?
 
-REST란 Representational State Transfer의 약자로 웹의 장점을 최대한 활용할 수 있는 Client와 Server 간 통식 방식 중 하나이다.
+REST란 Representational State Transfer의 약자로 웹의 장점을 최대한 활용할 수 있는 Client와 Server 간 통신 방식 중 하나이다.
 
 
 
