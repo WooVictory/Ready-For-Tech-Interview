@@ -1,6 +1,6 @@
 ## UDP
 
-- User Datagran Protocol의 약자이다.
+- User Datagram Protocol의 약자이다.
 - 데이터를 데이터 그램 단위로 처리하는 프로토콜.
   - 데이터 그램 : 독립적인 관계를 지니는 패킷
 - 비연결형 프로토콜로 사전에 연결 설정 없이 데이터를 전달한다.
