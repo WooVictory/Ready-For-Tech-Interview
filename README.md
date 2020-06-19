@@ -1,6 +1,8 @@
 # Ready-For-Tech-Interview
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
-신입 개발자로서 준비하기 위해 지식을 정리하는 공간입니다. 😎
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
+
+신입 개발자로서 필요한 지식을 정리하는 공간입니다. 😎
 
 다양한 지식들이 있으며, 지식의 확장 및 기술 면접에 도움이 되기를 바랍니다. 👨‍💻
 
@@ -10,14 +12,24 @@
 
 내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
 
-**since** : 2020.01.26
+**since** : 2020.01.26 ~ ing
 
-**Date** : 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
+**Date**
+- 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
+- 2020.06.09 기준 Star 200개를 돌파했습니다. 감사합니다 :)
+
+👨‍👩‍👦‍👦  **도움을 주신 분들**
+
+| [huhsay](https://github.com/huhsay) | [hzoou](https://github.com/hzoou) | [woung717](https://github.com/woung717) | 
+| --- | --- | --- |
+| [Bellroute](https://github.com/Bellroute) |
 
 ## 👨‍⚕️ Interview
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
+- [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 
 - Android
+  - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
 
 - iOS
 
@@ -50,8 +62,8 @@
   - [프로세스와 스레드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
   - [동기화 문제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%AC%B8%EC%A0%9C.md)
   - [Context Switching](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/Context%20Switching.md)
+  - [인터럽트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
   - [교착 상태(Dead lock)]()
-  - [인터럽트]()
   - [시스템 콜]()
   - [CPU 스케줄링]()
   - [스케줄러의 종류]()
@@ -162,3 +174,28 @@
 - [AI 면접 완벽 분석](https://m.blog.naver.com/yankmo/221522024457)
 - [4차 산업 혁명](https://www.youtube.com/watch?v=LRFQxCmWsGQ&t=10s)
 
+
+## License
+```
+MIT License
+
+Copyright (c) 2020 이승우
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

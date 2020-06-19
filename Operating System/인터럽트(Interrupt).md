@@ -65,4 +65,4 @@ A 프로그램이 CPU를 할당받고 명령을 수행하고 있는데 인터럽
 ### 참고
 
 - [#3 인터럽트의 원리 - 운영체제와 정보기술의 원리](https://real-dongsoo7.tistory.com/m/93?category=784608)
-- [규글님 Github]([https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Interrupt.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Operation System/Interrupt.md))
+- [규글님 Github](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Interrupt.md)
