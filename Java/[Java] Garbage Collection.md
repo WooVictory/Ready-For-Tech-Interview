@@ -40,4 +40,4 @@
 참고할 만한 블로그
 
 - [네이버 D2 블로그](https://d2.naver.com/helloworld/329631)
-- [Jungwoon Blog](https://jungwoon.github.io/)
+- [Jungwoon Blog](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)

@@ -91,3 +91,8 @@ Open Addressing 방식은 삭제 처리시에 문제가 발생할 수 있다.
 
 
 이러한 문제점을 해결하기 위해 데이터를 삭제한 후에 더미 노드를 삽입한다. 실제로 값을 가지진 않지만 검색 시 다음 index까지 연결하는 역할을 한다. 데이터 삭제가 빈번하여 더미 노드가 증가한 경우, 조회할 데이터가 존재하지 않음에도 불구하고 더미 노드 때문에 검색을 수행하므로 더미 노드가 일정 갯수가 넘어가면 해시 테이블을 리빌딩해야 한다.
+
+### 읽어보면 좋은 글
+- [[Algorithm] 6-1. Hashing 개요 - Chaining, Open Addressing, SUHA](https://ict-nroo.tistory.com/76)
+- [Item 11. Equals를 재정의하려거든 Hashcode도 재정의하라](https://jaehun2841.github.io/2019/01/12/effective-java-item11/#equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%96%88%EC%A7%80%EB%A7%8C-hashcode%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B2%BD%EC%9A%B0)
+- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
