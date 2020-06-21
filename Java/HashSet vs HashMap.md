@@ -51,7 +51,35 @@ HashSet
 
 
 
+### HashMap vs HashTable
+
+- 컬렉션의 Map 인터페이스를 구현한 클래스이다.
+- key, value를 이용하여 값을 저장하는 구조이다.
+
+
+
+1) HashTable
+
+- 동기화를 지원하므로 멀티 스레드 환경에서 사용할 수 있다.
+- Key, Value에 Null을 허용하지 않는다.
+
+
+
+2) HashMap
+
+- 동기화를 지원하지 않으므로 멀티 스레드 환경에는 적합하지 않다.
+- Key, Value에 Null을 허용한다. 
+
+
+
+이 둘의 관계를 보면 Vector의 상위호환(?) 개념인 ArrayList의 사용을 권장하듯이 새로운 버전인 HashMap을 활용핟고 필요한 시점에서는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 것이 더 좋은 방법이라 표현한다.
+
+추가로 속도적인 측면에서는 구형이라 할 수 있는 HashTable은 동기화 처리라는 비용 때문에 HashMap에 비해 더 느리다고 한다. 
+
+
+
 ### 참고
 
 - [[Java]HashSet과 HashMap]([https://postitforhooney.tistory.com/entry/JavaHashSet%EA%B3%BC-HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap))
-
+- [[Java] HashMap과 HashTable 차이](https://odol87.tistory.com/3)
+- [Hashtable, HashMap, ConcurrentHashMap 비교](https://jdm.kr/blog/197)
