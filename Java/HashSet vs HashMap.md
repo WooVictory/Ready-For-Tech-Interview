@@ -53,5 +53,5 @@ HashSet
 
 ### 참고
 
-- [[Java]HashSet과 HashMap]([https://postitforhooney.tistory.com/entry/JavaHashSet%EA%B3%BC-HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap))
+- [[Java]HashSet과 HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap)
 
