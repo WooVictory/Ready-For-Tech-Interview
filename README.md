@@ -42,7 +42,7 @@
 - [퀵 정렬(Quick Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
 - [힙 정렬(Heap Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
  - [투포인터 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
- - [순열](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+ - [순열(Permutation)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
  - [BFS & DFS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/BFS%20%26%20DFS.md)
  - [이분 탐색(Binary Search)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
  
