@@ -111,7 +111,7 @@
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
   - [[Data Structure] Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
-  - [Tree Map]()
+  - [[Data Structure] Tree Map]()
 
 <br>
 
