@@ -30,6 +30,8 @@
 
 - Android
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
+  - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
+  - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/@oemilk/14)
 
 - iOS
 
