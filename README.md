@@ -27,9 +27,12 @@
 ## 👨‍⚕️ Interview
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
+- [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
 
 - Android
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
+  - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
+  - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/@oemilk/14)
 
 - iOS
 
@@ -42,7 +45,7 @@
 - [퀵 정렬(Quick Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
 - [힙 정렬(Heap Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%9E%99%20%EC%A0%95%EB%A0%AC(Heap%20Sort).md)
  - [투포인터 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
- - [순열](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+ - [순열(Permutation)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
  - [BFS & DFS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/BFS%20%26%20DFS.md)
  - [이분 탐색(Binary Search)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
  
@@ -111,7 +114,7 @@
   - [[Data Structure] Hash(해시)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
   - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
   - [[Data Structure] Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
-  - [Tree Map]()
+  - [[Data Structure] Tree Map]()
 
 <br>
 
@@ -144,6 +147,7 @@
 ### 🐬 Kotlin
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
+- [간단한 문법 Part. 2]()
 
 
 ## 📚 Books

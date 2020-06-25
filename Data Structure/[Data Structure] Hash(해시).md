@@ -96,3 +96,4 @@ Open Addressing 방식은 삭제 처리시에 문제가 발생할 수 있다.
 - [[Algorithm] 6-1. Hashing 개요 - Chaining, Open Addressing, SUHA](https://ict-nroo.tistory.com/76)
 - [Item 11. Equals를 재정의하려거든 Hashcode도 재정의하라](https://jaehun2841.github.io/2019/01/12/effective-java-item11/#equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%96%88%EC%A7%80%EB%A7%8C-hashcode%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B2%BD%EC%9A%B0)
 - [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
+- [[자료구조] 코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
