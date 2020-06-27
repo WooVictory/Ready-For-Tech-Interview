@@ -29,17 +29,20 @@
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 - [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
 
-- Android
+
+[Android]
 
 > 일단, 아카이빙하고 있지만 추후 질문에 대한 답을 정리해서 업로드 할 예정입니다 :-)
+
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
   - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
   - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/@oemilk/14)
   - [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
 
-- iOS
+[iOS]
 
 > iOS는 면접 질문들이 있는 곳을 아카이빙합니다. :)
+
   - [iOS Interviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
 
