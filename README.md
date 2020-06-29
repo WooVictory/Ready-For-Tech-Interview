@@ -25,6 +25,9 @@
 | [Bellroute](https://github.com/Bellroute) |
 
 ## 👨‍⚕️ Interview
+
+[공통] 
+
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 - [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
