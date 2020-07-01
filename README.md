@@ -17,6 +17,7 @@
 **Date**
 - 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
 - 2020.06.09 기준 Star 200개를 돌파했습니다. 감사합니다 :)
+- 2020.07.01 기준 Star 300개를 돌파했습니다. 최근에 바빠서 제대로 내용을 업데이트하지 못한 경우가 많았는데, Star의 갯수를 보니 책임감을 가지고 더 열심히해야겠습니다. 감사합니다!
 
 👨‍👩‍👦‍👦  **도움을 주신 분들**
 
@@ -66,6 +67,7 @@
 - [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [Activity Lifecycle](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Activity%20Lifecycle.md)
 - [Android에서 Enum 사용](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android%EC%97%90%EC%84%9C%20Enum%20%EC%82%AC%EC%9A%A9.md)
+- [Why use RecyclerView's setHasFixedSize?](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/RecyclerView's%20setHasFixedSize.md)
 
 ## 🔍 Computer Science
 
