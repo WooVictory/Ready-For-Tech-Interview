@@ -17,6 +17,7 @@
 **Date**
 - 2020.04.30 기준 Star 100개를 돌파했습니다. 더 열심히 하도록 하겠습니다. 
 - 2020.06.09 기준 Star 200개를 돌파했습니다. 감사합니다 :)
+- 2020.07.01 기준 Star 300개를 돌파했습니다. 최근에 바빠서 제대로 내용을 업데이트하지 못한 경우가 많았는데, Star의 갯수를 보니 책임감을 가지고 더 열심히해야겠습니다. 감사합니다!
 
 👨‍👩‍👦‍👦  **도움을 주신 분들**
 
@@ -25,16 +26,28 @@
 | [Bellroute](https://github.com/Bellroute) |
 
 ## 👨‍⚕️ Interview
+
+[공통] 
+
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 - [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
 
-- Android
+
+[Android]
+
+> 일단, 아카이빙하고 있지만 추후 질문에 대한 답을 정리해서 업로드 할 예정입니다 :-)
+
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
   - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
   - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/@oemilk/14)
+  - [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
 
-- iOS
+[iOS]
+
+> iOS는 면접 질문들이 있는 곳을 아카이빙합니다. :)
+
+  - [iOS Interviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
 
 ## 🐳 Algorithm
@@ -54,6 +67,7 @@
 - [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [Activity Lifecycle](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Activity%20Lifecycle.md)
 - [Android에서 Enum 사용](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android%EC%97%90%EC%84%9C%20Enum%20%EC%82%AC%EC%9A%A9.md)
+- [Why use RecyclerView's setHasFixedSize?](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/RecyclerView's%20setHasFixedSize.md)
 
 ## 🔍 Computer Science
 
@@ -75,6 +89,7 @@
   - [페이지 교체 알고리즘]()
   - [메모리]()
   - [캐시의 지역성]()
+  - [동기 vs 비동기](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
   
 
 <br>
