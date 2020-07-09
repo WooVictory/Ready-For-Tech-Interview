@@ -4,8 +4,7 @@
 - 즉, 프로세스가 자원을 얻지 못해서 다음 처리를 하지 못하는 상태이다.
 
 
-
-![deadlock](/Users/woo/Downloads/deadlock.png)
+![img](https://user-images.githubusercontent.com/33534771/87002992-c4230880-c1f5-11ea-8e0e-0bddc09e3f4a.png)
 
 프로세스 1과 프로세스2가 모두 자원 1, 자원 2를 얻어야 한다고 가정해보자.
 
@@ -90,7 +89,7 @@ t2 : 프로세스 1은 자원 2를 기다림 / 프로세스 2는 자원 1을 기
 
 
 
-<img src="/Users/woo/Downloads/deadlock_avoidance.png" alt="deadlock_avoidance" style="zoom:50%;" />
+![img](https://user-images.githubusercontent.com/33534771/87003104-f6346a80-c1f5-11ea-84f3-d048f1cec0ea.png)
 
 
 
@@ -98,7 +97,7 @@ t2 : 프로세스 1은 자원 2를 기다림 / 프로세스 2는 자원 1을 기
 
 - 자원 할당 그래프를 통해 교착 상태를 탐지할 수 있다.
 
-![deadlock_graph](/Users/woo/Downloads/deadlock_graph.png)
+![img](https://user-images.githubusercontent.com/33534771/87003146-0e0bee80-c1f6-11ea-8d99-d19c46e52324.png)
 
 - 프로세스 Pi -> 자원 Rj : 프로세스 P가 자원 R을 요청하는 것으로 현재 이 자원을 기다리는 상태
 - 자원 Rj -> 프로세스 Pi : 자원 R이 프로세스 P에 할당된 것을 의미한다.
