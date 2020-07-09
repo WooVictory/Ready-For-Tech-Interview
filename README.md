@@ -89,6 +89,7 @@
   - [페이지 교체 알고리즘]()
   - [메모리]()
   - [캐시의 지역성]()
+  - [동기 vs 비동기](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
   
 
 <br>
