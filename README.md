@@ -192,6 +192,7 @@
 
 - [AI 면접 완벽 분석](https://m.blog.naver.com/yankmo/221522024457)
 - [4차 산업 혁명](https://www.youtube.com/watch?v=LRFQxCmWsGQ&t=10s)
+- [Droid Pirates](https://medium.com/@androidtechweekly)
 
 
 ## License
