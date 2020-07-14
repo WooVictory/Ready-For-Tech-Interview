@@ -76,20 +76,20 @@
 <br>
 
 - 🙉 **Operation System**
-  - [프로세스와 스레드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+  - [프로세스 vs 스레드](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
   - [동기화 문제](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%AC%B8%EC%A0%9C.md)
   - [Context Switching](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/Context%20Switching.md)
-  - [인터럽트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
-  - [교착 상태(Dead lock)]()
-  - [시스템 콜]()
-  - [CPU 스케줄링]()
-  - [스케줄러의 종류]()
-  - [동기와 비동기 차이]()
+  - [인터럽트(Interrupt)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
+  - [시스템 콜(System Call)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
+  - [교착 상태(Dead lock)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(DeadLock).md)
+  - [CPU 스케줄링](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
+  - [스케줄러의 종류](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+  - [동기 vs 비동기](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
   - [페이징, 세그멘테이션]()
   - [페이지 교체 알고리즘]()
   - [메모리]()
   - [캐시의 지역성]()
-  - [동기 vs 비동기](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+
   
 
 <br>
@@ -192,6 +192,7 @@
 
 - [AI 면접 완벽 분석](https://m.blog.naver.com/yankmo/221522024457)
 - [4차 산업 혁명](https://www.youtube.com/watch?v=LRFQxCmWsGQ&t=10s)
+- [Droid Pirates](https://medium.com/@androidtechweekly)
 
 
 ## License
