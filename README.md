@@ -27,14 +27,14 @@
 
 ## 👨‍⚕️ Interview
 
-[공통] 
+**[공통]**
 
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 - [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
 
 
-[Android]
+**[Android]**
 
 > 일단, 아카이빙하고 있지만 추후 질문에 대한 답을 정리해서 업로드 할 예정입니다 :-)
 
@@ -43,7 +43,7 @@
   - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/@oemilk/14)
   - [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
 
-[iOS]
+**[iOS]**
 
 > iOS는 면접 질문들이 있는 곳을 아카이빙합니다. :)
 
@@ -85,8 +85,10 @@
   - [CPU 스케줄링](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
   - [스케줄러의 종류](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
   - [동기 vs 비동기](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
-  - [페이징, 세그멘테이션]()
-  - [페이지 교체 알고리즘]()
+  - [페이징 & 세그멘테이션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/Paging_Segmentation.md)
+  - [페이지 교체 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/PageReplacement.md)
+  - [단편화](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8B%A8%ED%8E%B8%ED%99%94.md)
+  - [IPC(Inter Process Communication)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/IPC(Inter%20Process%20Communication).md)
   - [메모리]()
   - [캐시의 지역성]()
 
