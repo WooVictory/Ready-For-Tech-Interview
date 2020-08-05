@@ -161,8 +161,10 @@
 
 ### 🐬 Kotlin
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
+- [kotlin functions]()
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
-- [간단한 문법 Part. 2]()
+- [간단한 문법 Part. 2](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%902.md)
+
 
 
 ## 📚 Books
@@ -174,6 +176,8 @@
 <br>
 
 - 🐿 **Kotlin in action**
+  - [Blog](https://woovictory.github.io/all-categories/#posts-list-Kotlin%20in%20Action)에 정리되어 있습니다.
+<!--
   - [코틀린 기초](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter2.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88/Basic.md)
   - [함수 정의와 호출](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C.md)
   - [클래스, 객체, 인터페이스](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter4.%ED%81%B4%EB%9E%98%EC%8A%A4%2C%EA%B0%9D%EC%B2%B4%2C%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/4%EC%9E%A5.md)
@@ -183,6 +187,8 @@
   - [고차 함수](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter8.%EA%B3%A0%EC%B0%A8%20%ED%95%A8%EC%88%98_%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%99%80%20%EB%B0%98%ED%99%98%20%EA%B0%92%EC%9C%BC%EB%A1%9C%20%EB%9E%8C%EB%8B%A4%20%EC%82%AC%EC%9A%A9/high%20order%20function.md)
   - [제네릭](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4(Generics).md)
   - [어노테이션과 리플렉션](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter10.%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC%20%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98/10%EC%9E%A5.md)
+-->
+
 
 ## 🔍 Design Pattern
 
