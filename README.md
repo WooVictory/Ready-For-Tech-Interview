@@ -176,9 +176,7 @@
 <br>
 
 - 🐿 **Kotlin in action**
-
-
-[Blog](https://woovictory.github.io/all-categories/#posts-list-Kotlin%20in%20Action)에 정리되어 있습니다.
+  - [Blog](https://woovictory.github.io/all-categories/#posts-list-Kotlin%20in%20Action)에 정리되어 있습니다.
 <!--
   - [코틀린 기초](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter2.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88/Basic.md)
   - [함수 정의와 호출](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C/Chapter3.%ED%95%A8%EC%88%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%98%B8%EC%B6%9C.md)
