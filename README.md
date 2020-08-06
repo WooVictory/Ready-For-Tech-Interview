@@ -89,9 +89,11 @@
   - [페이지 교체 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/PageReplacement.md)
   - [단편화](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8B%A8%ED%8E%B8%ED%99%94.md)
   - [IPC(Inter Process Communication)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/IPC(Inter%20Process%20Communication).md)
+
+<!--
   - [메모리]()
   - [캐시의 지역성]()
-
+-->
   
 
 <br>
