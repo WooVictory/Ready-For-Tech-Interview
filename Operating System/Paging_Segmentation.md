@@ -77,7 +77,7 @@ ex)
 
 ### Reference
 
-- [[운영체제(OS)] 13. 페이징]([https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-13.-%ED%8E%98%EC%9D%B4%EC%A7%95](https://velog.io/@codemcd/운영체제OS-13.-페이징))
-- [[운영체제(OS)] 14. 세그멘테이션]([https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-14.-%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98](https://velog.io/@codemcd/운영체제OS-14.-세그멘테이션))
+- [[운영체제(OS)] 13. 페이징][https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-13.-%ED%8E%98%EC%9D%B4%EC%A7%95](https://velog.io/@codemcd/운영체제OS-13.-페이징)
+- [[운영체제(OS)] 14. 세그멘테이션][https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-14.-%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98](https://velog.io/@codemcd/운영체제OS-14.-세그멘테이션)
 
 - [세그멘테이션과 페이징](https://m.blog.naver.com/s2kiess/220149980093)
