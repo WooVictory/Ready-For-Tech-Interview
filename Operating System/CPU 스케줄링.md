@@ -160,4 +160,4 @@ CPU의 점유를 오랜 시간 동안 하지 못하는 현상을 의미한다. P
 
 ### Reference
 
-- [[운영체제(OS)] 6. CPU 스케줄링]([https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-6.-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81](https://velog.io/@codemcd/운영체제OS-6.-CPU-스케줄링))
+- [[운영체제(OS)] 6. CPU 스케줄링]([https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-6.-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81]())
