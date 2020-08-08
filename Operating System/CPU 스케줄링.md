@@ -63,7 +63,7 @@ CPU가 하나의 프로세스 작업이 끝나면 다음 프로세스 작업을 
 - 준비 큐에 먼저 도착한 프로세스가 먼저 CPU를 점유하는 방식이다.
 - CPU를 할당받으면 CPU 버스트가 완료될 때까지 CPU를 반환하지 않으며, 할당되었던 CPU가 반환될 때만 스케줄링이 이루어진다.
 
-<img src="/Users/woo/Library/Application Support/typora-user-images/image-20200709132625940.png" alt="image-20200709132625940" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/33534771/89703489-500b8a00-d986-11ea-9b6c-27cca4ea1016.png" width="300" height="300"/>
 
 ![img](https://user-images.githubusercontent.com/34755287/53879661-5d666b80-4052-11e9-8453-bad918a563ef.png)
 
@@ -98,7 +98,7 @@ CPU가 하나의 프로세스 작업이 끝나면 다음 프로세스 작업을 
 - 다른 프로세스가 먼저 도착했더라도 CPU 버스트가 짧은 프로세스에게 CPU를 먼저 할당하는 방식이다.
 - 선점, 비선점 모두 가능하다.
 
-<img src="/Users/woo/Library/Application Support/typora-user-images/image-20200709133900954.png" alt="image-20200709133900954" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/33534771/89703540-b7293e80-d986-11ea-9b11-0dabd8e5488f.png" width="300" height="300"/>
 
 ![img](https://user-images.githubusercontent.com/34755287/53879666-5d666b80-4052-11e9-93c2-86b725588403.png)
 
@@ -127,7 +127,7 @@ SJF가 가장 효율적인 CPU 스케줄링 방법 같지만, 매우 **비현실
 
 - 선점, 비선점 모두 가능하다.
 
-<img src="/Users/woo/Library/Application Support/typora-user-images/image-20200709135108525.png" alt="image-20200709135108525" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/33534771/89703556-e344bf80-d986-11ea-87f1-74994cc47510.png" width="300" height="300"/>
 
 ![img](https://user-images.githubusercontent.com/34755287/53879671-5e979880-4052-11e9-84d3-524270cdc920.png)
 
@@ -160,4 +160,4 @@ CPU의 점유를 오랜 시간 동안 하지 못하는 현상을 의미한다. P
 
 ### Reference
 
-- [[운영체제(OS)] 6. CPU 스케줄링]([https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-6.-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81](https://velog.io/@codemcd/운영체제OS-6.-CPU-스케줄링))
+- [운영체제(OS) 6. CPU 스케줄링](https://velog.io/@codemcd/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-6.-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
