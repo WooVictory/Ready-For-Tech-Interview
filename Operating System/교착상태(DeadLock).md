@@ -133,5 +133,4 @@ t2 : 프로세스 1은 자원 2를 기다림 / 프로세스 2는 자원 1을 기
 
 
 ### Reference
-
-- [규글님]([https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Operation System/DeadLock.md))
+- [규글님 DeadLock](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md)
