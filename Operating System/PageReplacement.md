@@ -105,4 +105,4 @@
 ### Reference
 
 - [가상메모리-02-페이지 교체 알고리즘](https://eunhyejung.github.io/os/2018/07/24/operatingsystem-study15.html)
-- [규글님](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Operation System/Page Replacement Algorithm.md)
+- [규글님 - 페이지 교체 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Page%20Replacement%20Algorithm.md)
