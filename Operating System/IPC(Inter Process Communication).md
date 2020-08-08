@@ -10,32 +10,6 @@
 
 
 
-
-
-
 ### Reference
 
-- [규글님](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Operation System/IPC(Inter Process Communication).md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [규글님 - IPC](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
