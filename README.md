@@ -51,7 +51,7 @@
   - [iOS Interviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
 
-## 🐳 Algorithm
+## 🐳 Algorithms
 - [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
 - [거품 정렬(Bubble Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
 - [병합 정렬(Merge Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
@@ -62,6 +62,7 @@
  - [순열(Permutation)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
  - [BFS & DFS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/BFS%20%26%20DFS.md)
  - [이분 탐색(Binary Search)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
+ - [최대공약수와 최소공배수](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/GCD%26LCM.md)
  
 
 ## 🦜 Android
