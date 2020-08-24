@@ -167,7 +167,7 @@
 
 ### 🐬 Kotlin
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
-- [kotlin functions]()
+- [kotlin functions](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/kotlin_functions.md)
 - [간단한 문법 Part. 1](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%90.md)
 - [간단한 문법 Part. 2](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%84%EB%8B%A8%ED%95%9C%20%EA%B0%9C%EB%85%902.md)
 
