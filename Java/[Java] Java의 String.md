@@ -83,3 +83,6 @@ Perm 영역은 고정된 사이즈이며 Runtime에 사이즈가 확장되지 �
 
 
 String Constant Pool의 사이즈 또한 지정할 수 있는데, -xx:StringTableSize 옵션으로 설정이 가능하다. 여기에는 1,000,000과 같은 숫자가 아닌 1,000,003과 같은 소수를 사용해야 한다. 이는 hashCode 성능과 관련된 부분이며 [아티클](http://java-performance.info/hashcode-method-performance-tuning/)에 자세한 내용이 나와있다.
+
+++ 2020.09.19 추가
+[해당 블로그](https://inor.tistory.com/39)의 내용이 이해가 잘되어서 첨부하며, 추후에 추가하도록 하겠다.
