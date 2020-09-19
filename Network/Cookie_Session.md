@@ -43,4 +43,4 @@ HTTP는 비상태성(Stateless) 프로토콜로 상태 정보를 유지하지 �
 
 ### Reference
 
-- [규글님](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Cookie %26 Session.md)
+- [규글님](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
