@@ -122,6 +122,7 @@
   - [HTTP와 HTTPS 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md)
   - [공개키 암호, 대칭키 암호](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
   - [REST & RESTful](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/REST%20%26%20RESTful.md)
+  - [쿠키와 세션의 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/Cookie_Session.md)
   
   <br>
 
