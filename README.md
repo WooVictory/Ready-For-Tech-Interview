@@ -2,14 +2,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
 
-신입 개발자로서 필요한 지식을 정리하는 공간입니다. 😎
-
+신입 개발자에게 필요한 지식을 정리하는 공간입니다. 😎
+<br>
 다양한 지식들이 있으며, 지식의 확장 및 기술 면접에 도움이 되기를 바랍니다. 👨‍💻
-
-저만의 공간이 아닌 여러분들과 함께 채워나갈 수 있는 공간이며, 주관적인 지식이므로 다른 분들의 도움이 필요합니다. 🙏
-
-`Issue`나 `PR`로 추가하거나 수정해야 할 내용을 알려주시면 감사하겠습니다. 🙌
-
+<br>
+저만의 공간이 아닌 여러분들과 함께 채워나갈 수 있는 공간이며, 주관적인 지식이므로 다른 분들의 도움이 필요합니다. 🙏 `Issue`나 `PR`로 추가하거나 수정해야 할 내용을 알려주시면 감사하겠습니다. 🙌
+<br>
 내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
 
 **since** : 2020.01.26 ~ ing
