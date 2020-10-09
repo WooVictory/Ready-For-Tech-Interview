@@ -2,24 +2,25 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
 
-신입 개발자에게 필요한 지식을 정리하는 공간입니다. 😎
-<br>
-다양한 지식들이 있으며, 지식의 확장 및 기술 면접에 도움이 되기를 바랍니다. 👨‍💻
-<br>
-저만의 공간이 아닌 여러분들과 함께 채워나갈 수 있는 공간이며, 주관적인 지식이므로 다른 분들의 도움이 필요합니다. 🙏 
-<br>
-`Issue`나 `PR`로 추가하거나 수정해야 할 내용을 알려주시면 감사하겠습니다. 🙌
-<br>
-내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
-
 **since** : 2020.01.26 ~ ing
-
+<br>
 **Date**
 - 2020.04.30 : Star 100 
 - 2020.06.09 : Star 200 :-)
 - 2020.07.01 : Star 300 🙇‍♂️
 - 2020.08.15 : Star 400 🙌
 - 2020.10.06 : Star 500 🚀
+신입 개발자에게 필요한 지식을 정리하는 공간입니다. 😎
+<br>
+지식의 확장을 넘어서 기술 면접을 준비함에 있어서 도움이 되기를 바랍니다. 👨‍💻
+<br>
+개인적인 공간이 아닌 여러분들과 함께 채워나갈 수 있는 공간이며, 주관적인 지식이므로 다른 분들의 도움이 필요합니다. 🙏 
+<br>
+`Issue`나 `PR`로 추가 혹은 수정할 내용을 알려주시면 감사하겠습니다. 🙌
+<br>
+내용이 마음에 들거나 유용하다면 `Star`를 한번씩 눌러주시면 감사하겠습니다. 🙇‍♂️
+
+
 
 👨‍👩‍👦‍👦  **도움을 주신 분들**
 
@@ -37,8 +38,6 @@
 
 
 **[Android]**
-
-> 일단, 아카이빙하고 있지만 추후 질문에 대한 답을 정리해서 업로드 할 예정입니다 :-)
 
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
   - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
