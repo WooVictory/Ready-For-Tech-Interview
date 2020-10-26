@@ -27,7 +27,7 @@
 
 | [huhsay](https://github.com/huhsay) | [hzoou](https://github.com/hzoou) | [woung717](https://github.com/woung717) | 
 | --- | --- | --- |
-| [Bellroute](https://github.com/Bellroute) |
+| [Bellroute](https://github.com/Bellroute) | [kommadot](https://github.com/kommadot) |
 
 ## 👨‍⚕️ Interview
 
