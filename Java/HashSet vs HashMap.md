@@ -1,7 +1,6 @@
-### HashSet과 HashMap
+### HashSet, HashMap
 
-HashMap과 HashSet은 모두 Collection Framework에 속한다. 
-
+HashMap과 HashSet은 모두 Collection Framework에 속한다.   
 기본적으로 Collection Framework는 Set, List, Queue 인터페이스로 나뉘어진다.
 
 - Set : 객체를 받지만, 중복되는 값은 허용하지 않는다.(순서가 없다.)
@@ -20,10 +19,8 @@ HashSet에 들어가는 객체들은 반드시 equals()와 hashCode() 메소드�
 
 #### HashMap
 
-Map 인터페이스를 구현한 것으로 Key-Value 형태의 데이터를 저장한다. 
-
-중복된 Key 값은 허용되지 않는다. 다만, 중복된 값의 저장은 허용한다.
-
+Map 인터페이스를 구현한 것으로 Key-Value 형태의 데이터를 저장한다.   
+중복된 Key 값은 허용되지 않는다. 다만, 중복된 값의 저장은 허용한다.  
 null value, null key 를 허용한다.
 
 - HashMap : 집어 넣은 순서를 유지하지 않는다.
@@ -34,7 +31,7 @@ null value, null key 를 허용한다.
 
 #### 차이점
 
-HashMap
+[HashMap]
 
 1. Map 인터페이스 구현
 2. 데이터를 Key-Value 형식으로 저장한다.
@@ -43,7 +40,7 @@ HashMap
 
 
 
-HashSet
+[HashSet]
 
 1. Set 인터페이스를 구현
 2. 객체만 저장할 수 있다.
@@ -59,22 +56,21 @@ HashSet
 
 
 
-1) HashTable
+1. HashTable
+   - 동기화를 지원하므로 멀티 스레드 환경에서 사용할 수 있다.
+   - Key, Value에 Null을 허용하지 않는다.
 
-- 동기화를 지원하므로 멀티 스레드 환경에서 사용할 수 있다.
-- Key, Value에 Null을 허용하지 않는다.
+2. HashMap
+   - 동기화를 지원하지 않으므로 멀티 스레드 환경에는 적합하지 않다.
+   - Key, Value에 Null을 허용한다. 
+
+3. ConcurrentHashMap
+   - HashMap에 ThreadSafe를 추가한 것으로서 멀티 스레드 환경에서 HashMap을 동기화 시킨 Collections이다.
+   - HashTable은 메소드 전체에 synchronized를 선언하는 반면 ConcurrentHashMap은 동기화가 필요한 부분에만 동기화를 적용했기 때문에 동기화에서 발생하는 오버헤드가 줄어든다.
 
 
 
-2) HashMap
-
-- 동기화를 지원하지 않으므로 멀티 스레드 환경에는 적합하지 않다.
-- Key, Value에 Null을 허용한다. 
-
-3) ConcurrentHashMap
-
-- HashMap에 ThreadSafe를 추가한 것으로서 멀티 스레드 환경에서 HashMap을 동기화 시킨 Collections이다.
-- HashTable은 메소드 전체에 synchronized를 선언하는 반면 ConcurrentHashMap은 동기화가 필요한 부분에만 동기화를 적용했기 때문에 동기화에서 발생하는 오버헤드가 줄어든다.
+[결론]
 
 멀티 스레드 환경이라면 HashMap보단 HashTable 혹은 ConcurrentHashMap을 사용하는것을 고려해야하고,
 HashTable보다는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 것이 성능적인 면에서 더 좋다고 볼 수있다.
@@ -83,7 +79,7 @@ HashTable보다는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 �
 
 ### 참고
 
-- [[Java]HashSet과 HashMap]([https://postitforhooney.tistory.com/entry/JavaHashSet%EA%B3%BC-HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap))
+- [[Java]HashSet과 HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap)
 - [[Java] HashMap과 HashTable 차이](https://odol87.tistory.com/3)
 - [Hashtable, HashMap, ConcurrentHashMap 비교](https://jdm.kr/blog/197)
 - [[Java]HashSet과 HashMap](https://postitforhooney.tistory.com/entry/JavaHashSet과-HashMap)
