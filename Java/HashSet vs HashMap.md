@@ -12,7 +12,6 @@ HashMap과 HashSet은 모두 Collection Framework에 속한다.
 #### HashSet
 
 Set 인터페이스를 구현한 것으로 중복된 값을 허용하지 않는다.
-
 HashSet에 들어가는 객체들은 반드시 equals()와 hashCode() 메소드를 구현해야 하는데, 이 메소드들을 가지고 HashSet에 들어갈 때, 중복된 객체가 있는지 여부를 체크하게 된다. 
 
 
@@ -24,7 +23,7 @@ Map 인터페이스를 구현한 것으로 Key-Value 형태의 데이터를 저�
 null value, null key 를 허용한다.
 
 - HashMap : 집어 넣은 순서를 유지하지 않는다.
-- TreeMap : Key를 기준으로 정렬한다.
+- TreeMap : 내부적으로 RedBlack Tree로 저장되며, Key 값을 기준으로 알파벳 순서대로 정렬한다.
 - LinkedHashMap : 집어 넣은 순서를 유지한다.
 
 
@@ -59,20 +58,22 @@ null value, null key 를 허용한다.
 1. HashTable
    - 동기화를 지원하므로 멀티 스레드 환경에서 사용할 수 있다.
    - Key, Value에 Null을 허용하지 않는다.
+   - put, get과 같은 주요 메소드에 synchronized 키워드가 선언되어 있다.
 
 2. HashMap
    - 동기화를 지원하지 않으므로 멀티 스레드 환경에는 적합하지 않다.
    - Key, Value에 Null을 허용한다. 
+   - 주요 메소드에 synchronized 키워드가 없다.
 
 3. ConcurrentHashMap
    - HashMap에 ThreadSafe를 추가한 것으로서 멀티 스레드 환경에서 HashMap을 동기화 시킨 Collections이다.
-   - HashTable은 메소드 전체에 synchronized를 선언하는 반면 ConcurrentHashMap은 동기화가 필요한 부분에만 동기화를 적용했기 때문에 동기화에서 발생하는 오버헤드가 줄어든다.
+   - HashTable은 메소드 전체에 synchronized를 선언하는 반면 **ConcurrentHashMap은 동기화가 필요한 부분에만 동기화를 적용했기 때문에 동기화에서 발생하는 오버헤드가 줄어든다.**
 
 
 
 [결론]
 
-멀티 스레드 환경이라면 HashMap보단 HashTable 혹은 ConcurrentHashMap을 사용하는것을 고려해야하고,
+멀티 스레드 환경이라면 HashMap보단 HashTable 혹은 ConcurrentHashMap을 사용하는 것을 고려해야하고,
 HashTable보다는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 것이 성능적인 면에서 더 좋다고 볼 수있다.
 
 
