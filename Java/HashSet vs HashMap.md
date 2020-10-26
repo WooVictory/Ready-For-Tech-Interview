@@ -27,7 +27,8 @@ Map 인터페이스를 구현한 것으로 Key-Value 형태의 데이터를 저�
 null value, null key 를 허용한다.
 
 - HashMap : 집어 넣은 순서를 유지하지 않는다.
-- TreeMap : 집어 넣은 순서를 유지한다.
+- TreeMap : Key를 기준으로 정렬한다.
+- LinkedHashMap : 집어 넣은 순서를 유지한다.
 
 
 
@@ -51,7 +52,7 @@ HashSet
 
 
 
-### HashMap vs HashTable
+### HashMap vs HashTable vs ConcurrentHashMap
 
 - 컬렉션의 Map 인터페이스를 구현한 클래스이다.
 - key, value를 이용하여 값을 저장하는 구조이다.
@@ -70,11 +71,13 @@ HashSet
 - 동기화를 지원하지 않으므로 멀티 스레드 환경에는 적합하지 않다.
 - Key, Value에 Null을 허용한다. 
 
+3) ConcurrentHashMap
 
+- HashMap에 ThreadSafe를 추가한 것으로서 멀티 스레드 환경에서 HashMap을 동기화 시킨 Collections이다.
+- HashTable은 메소드 전체에 synchronized를 선언하는 반면 ConcurrentHashMap은 동기화가 필요한 부분에만 동기화를 적용했기 때문에 동기화에서 발생하는 오버헤드가 줄어든다.
 
-이 둘의 관계를 보면 Vector의 상위호환(?) 개념인 ArrayList의 사용을 권장하듯이 새로운 버전인 HashMap을 활용핟고 필요한 시점에서는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 것이 더 좋은 방법이라 표현한다.
-
-추가로 속도적인 측면에서는 구형이라 할 수 있는 HashTable은 동기화 처리라는 비용 때문에 HashMap에 비해 더 느리다고 한다. 
+멀티 스레드 환경이라면 HashMap보단 HashTable 혹은 ConcurrentHashMap을 사용하는것을 고려해야하고,
+HashTable보다는 Java 5부터 제공하는 ConcurrentHashMap을 사용하는 것이 성능적인 면에서 더 좋다고 볼 수있다.
 
 
 
