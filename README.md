@@ -206,10 +206,12 @@
 
 ## 🦌 ETC
 
+개인적으로 유용하다고 생각되는 글이나, 사이트, 블로그 등을 아카이빙합니다.
 
 - [AI 면접 완벽 분석](https://m.blog.naver.com/yankmo/221522024457)
 - [4차 산업 혁명](https://www.youtube.com/watch?v=LRFQxCmWsGQ&t=10s)
 - [Droid Pirates](https://medium.com/@androidtechweekly)
+- [JBee님 블로그](https://jbee.io/)
 
 
 ## License
