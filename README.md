@@ -213,6 +213,7 @@
 - [Droid Pirates](https://medium.com/@androidtechweekly)
 - [JBee님 블로그](https://jbee.io/)
 - [개발자 성장에 필요한 3가지](https://brunch.co.kr/@mystoryg/62)
+- [](https://brunch.co.kr/@fly-celina/21)
 
 
 ## License
