@@ -221,8 +221,9 @@
 - [JBee님 블로그](https://jbee.io/)
 - [개발자 성장에 필요한 3가지](https://brunch.co.kr/@mystoryg/62)
 - [스타트업](https://brunch.co.kr/@fly-celina/21)
-- [구글 스타디아](https://brunch.co.kr/@openmobile/261)
-
+- [About 구글 스타디아](https://brunch.co.kr/@openmobile/261)
+- [프로그래머 면접 - 자신감](http://blog.naver.com/PostView.nhn?blogId=suntouch&logNo=222006415479&categoryNo=58&parentCategoryNo=54&viewDate=&currentPage=&postListTopCurrentPage=&isAfterWrite=true)
+- [프로그래머 자소서 - 팁](https://m.blog.naver.com/suntouch/221944958373)
 
 ## License
 ```
