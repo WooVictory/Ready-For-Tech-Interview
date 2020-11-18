@@ -83,8 +83,9 @@
 
 ## 🔍 Computer Science
 
+<!--
 - Computer Architecture
-
+-->
 <br>
 
 - 🙉 **Operation System**
@@ -226,6 +227,7 @@
 - [About 구글 스타디아](https://brunch.co.kr/@openmobile/261)
 - [프로그래머 면접 - 자신감](http://blog.naver.com/PostView.nhn?blogId=suntouch&logNo=222006415479&categoryNo=58&parentCategoryNo=54&viewDate=&currentPage=&postListTopCurrentPage=&isAfterWrite=true)
 - [프로그래머 자소서 - 팁](https://m.blog.naver.com/suntouch/221944958373)
+- [더닝 크루거 효과](https://ko.wikipedia.org/wiki/%EB%8D%94%EB%8B%9D-%ED%81%AC%EB%A3%A8%EA%B1%B0_%ED%9A%A8%EA%B3%BC)
 
 ## License
 ```
