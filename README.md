@@ -135,6 +135,7 @@
   - [쿠키와 세션의 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/Cookie_Session.md)
   - [Naver를 치면 일어나는 과정](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
   - [로드 밸런싱](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
+  - [Stateful vs. Stateless 서비스와 HTTP 및 REST => 읽어보면 좋을만한 글](https://5equal0.tistory.com/entry/StatefulStateless-Stateful-vs-Stateless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-HTTP-%EB%B0%8F-REST)
   
   <br>
 
