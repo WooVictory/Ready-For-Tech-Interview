@@ -217,7 +217,7 @@
 -->
 
 
-## 🔍 Design Pattern
+<!-- ## 🔍 Design Pattern -->
 
 
 ## 🦌 ETC
