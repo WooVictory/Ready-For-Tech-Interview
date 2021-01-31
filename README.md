@@ -59,6 +59,7 @@
   - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
   - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
   - [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
+  - [[안드로이드]Jenkins(CI서버)에서 빌드시간을 90% 줄이는 4가지 방법](https://medium.com/prnd/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-jenkins-ci%EC%84%9C%EB%B2%84-%EC%97%90%EC%84%9C-%EB%B9%8C%EB%93%9C%EC%8B%9C%EA%B0%84%EC%9D%84-90-%EC%A4%84%EC%9D%B4%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-176ee9378f1f)
 
 
 **[iOS]**
