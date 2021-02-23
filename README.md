@@ -93,9 +93,6 @@
 
 ## 🔍 Computer Science
 
-<!--
-- Computer Architecture
--->
 <br>
 
 - 🙉 **Operation System**
