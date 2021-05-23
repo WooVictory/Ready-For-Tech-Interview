@@ -36,7 +36,7 @@
 🎉 2020.12.11 : Star 700
 🎉 2021.01.09 : Star 800 
 🎉 2021.02.13 : Star 900
-🎉 2021.05.23 : Star 1300
+🎉 2021.03.21 : Star 1000
 ```
    <br><br>
 ## 👨‍👩‍👦‍👦 Contributer
@@ -87,7 +87,7 @@
 
 <br><br>
 
-  # 2. Computer Sceience
+  # 2. Computer Science
   👏 Algorithm<br>
   👏 Operating System<br>
   👏 DataBase<br>
