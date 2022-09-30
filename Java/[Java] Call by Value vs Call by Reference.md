@@ -1,4 +1,4 @@
-## Call by value ve Call by Reference
+## Call by value vs Call by Reference
 
 간단하면서도 헷갈리는 개념 중 하나이다. 
 
@@ -12,7 +12,7 @@ Primitive Type(원시 자료형)의 경우 Call by Value
 
 
 
-Reference Type(참조 타입)의 경우 Call by Value
+Reference Type(참조 타입)의 경우 Call by Reference
 
 - Array, 참조 타입
 
