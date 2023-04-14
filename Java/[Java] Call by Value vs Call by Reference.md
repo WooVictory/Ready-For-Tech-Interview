@@ -1,4 +1,4 @@
-## Call by value ve Call by Reference
+## Call by value vs Call by Reference
 
 간단하면서도 헷갈리는 개념 중 하나이다. 
 
