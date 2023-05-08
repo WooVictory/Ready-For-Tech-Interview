@@ -1,4 +1,4 @@
-### 이분 탐색(Binary Search)
+### 이진 탐색(Binary Search)
 
 - 이진 탐색 혹은 이분 탐색이라고 부른다.
 - 이미 정렬되어 있는 자료 구조에서 특정 값을 찾을 때, 탐색 범위를 절반씩 나눠가면서 해당 값을 찾아가는 것이다.
@@ -10,7 +10,7 @@
 **시간 복잡도**
 
 - 전체 탐색 : O(N)
-- 이분 탐색 : O(logN)
+- 이진 탐색 : O(logN)
 
 
 
@@ -72,4 +72,4 @@ public class BinarySearch {
 
 - [[Java] 이진탐색(Binary Search)](https://blog.opid.kr/489)
 - [규글님 Github](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
-- [13. 이분 탐색 (Binary Search)](https://code0xff.tistory.com/32)
+- [13. 이 탐색 (Binary Search)](https://code0xff.tistory.com/32)
