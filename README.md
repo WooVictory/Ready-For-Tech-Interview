@@ -156,7 +156,7 @@
 - [HTTP와 HTTPS 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md)
 - [공개키 암호, 대칭키 암호](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 - [REST & RESTful](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/REST%20%26%20RESTful.md)
-- [Get vs Post]()
+- [Get vs Post](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/GetVsPost.md)
 - [쿠키와 세션의 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/Cookie_Session.md)
 - [Naver를 치면 일어나는 과정](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 - [로드 밸런싱](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
