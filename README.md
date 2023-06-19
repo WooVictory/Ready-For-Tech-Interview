@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/39688690/119250278-eb9a7e00-bbd9-11eb-972e-795f3a6176f0.png" width="40%"></img></div>
-
+    <img src="https://user-images.githubusercontent.com/39688690/119250278-eb9a7e00-bbd9-11eb-972e-795f3a6176f0.png" width="40%"/>
+</div>
 
 ----
 
@@ -33,53 +33,34 @@
   
    <br><br>
   
- # 1. Interview
+# 1. Interview
 
-  👏 Common <br>
-  👏 Android<br>
-  👏 iOS<br>
-   <br><br>
-
-
-  <h2 align="center"> Common </h2>
-
+## Common
 - [it 기술 면접 ](https://demoversion.tistory.com/13)
 - [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#android)
 - [코딩 면접 질문들 정리](https://krksap.tistory.com/1136)
 
-<br>
+## Android
 
-  <h2 align="center"> Android </h2>
-
-  - [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/magazine/d-turnover)
-  - [Android Interview 질문 정리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android_Interview.md)
-  - [Android 개념 질문 리스트](https://github.com/csi111/Interview)
-  - [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
-  - [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
-  - [[안드로이드]Jenkins(CI서버)에서 빌드시간을 90% 줄이는 4가지 방법](https://medium.com/prnd/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-jenkins-ci%EC%84%9C%EB%B2%84-%EC%97%90%EC%84%9C-%EB%B9%8C%EB%93%9C%EC%8B%9C%EA%B0%84%EC%9D%84-90-%EC%A4%84%EC%9D%B4%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-176ee9378f1f)
-  - [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [안드로이드 면접 질문 시리즈 - 이승현님 브런치](https://brunch.co.kr/magazine/d-turnover)
+- [Android Interview 질문 정리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android_Interview.md)
+- [Android 개념 질문 리스트](https://github.com/csi111/Interview)
+- [안드로이드 개발자 면접 질문리스트](https://medium.com/lookpin-engineering/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8-63e1de17453b)
+- [Interview 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
+- [[안드로이드]Jenkins(CI서버)에서 빌드시간을 90% 줄이는 4가지 방법](https://medium.com/prnd/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-jenkins-ci%EC%84%9C%EB%B2%84-%EC%97%90%EC%84%9C-%EB%B9%8C%EB%93%9C%EC%8B%9C%EA%B0%84%EC%9D%84-90-%EC%A4%84%EC%9D%B4%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-176ee9378f1f)
+- [4대 컴포넌트](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/4%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [Activity Lifecycle](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Activity%20Lifecycle.md)
 - [Android에서 Enum 사용](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/Android%EC%97%90%EC%84%9C%20Enum%20%EC%82%AC%EC%9A%A9.md)
 - [Why use RecyclerView's setHasFixedSize?](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Android/RecyclerView's%20setHasFixedSize.md)
-<br>
-  
-  <h2 align="center"> iOS </h2>
-  
+
+## iOS
 - [iOS Interview And Questions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
 
-<br><br>
+# 2. Computer Science
 
-  # 2. Computer Science
-  👏 Algorithm<br>
-  👏 Operating System<br>
-  👏 DataBase<br>
-  👏 Network<br>
-  👏 DataStructure<br>
-  <br><br>
 
-<h2 align="center"> Algorithm </h2>
-
+## Algorithm
 - [선택 정렬(Selection Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).md)
 - [거품 정렬(Bubble Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
 - [병합 정렬(Merge Sort)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC(Merge%20Sort).md)
@@ -93,9 +74,8 @@
 - [최대공약수와 최소공배수](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/GCD%26LCM.md)
 - [lru cache](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/LRU%20Cache.md)
 
-<br>
 
-<h2 align="center"> Operating System </h2>
+## Operating System
 
 - [운영체제란](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
 - [컴퓨터 시스템의 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
@@ -115,9 +95,7 @@
 - [메모리]()
 - [캐시의 지역성]()
 
-<br>
-
-<h2 align="center"> DataBase </h2>
+## DataBase
 
 - [데이터베이스 기본 용어](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
 - [Key(키)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/Key(%ED%82%A4).md)
@@ -129,9 +107,7 @@
 - [트랜잭션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - [트랜잭션 격리수준]()
 
-<br>
-
-<h2 align="center"> Network </h2>
+## Network
 
 - [OSI 7 계층](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/OSI%207%20%EA%B3%84%EC%B8%B5.md)
 - [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/TCP.md)
@@ -147,9 +123,7 @@
 - [Stateful vs. Stateless 서비스와 HTTP 및 REST => 읽어보면 좋을만한 글](https://5equal0.tistory.com/entry/StatefulStateless-Stateful-vs-Stateless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-HTTP-%EB%B0%8F-REST)
 - [HTTP동작과정과 HTTP Method, 상태코드](https://github.com/devsungmin/Ready-For-Tech-Interview/blob/master/Network/HTTP%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95%EA%B3%BC%20HTTP%20Method%2C%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
-<br>
-
-<h2 align="center"> Data Structure </h2>
+## Data Structure
 
 - [[Data Structure] Array vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20Array%20vs%20LinkedList.md)
 - [[Data Structure] ArrayList vs LinkedList](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Sturcture%5D%20ArrayList%20vs%20LinkedList.md)
@@ -161,16 +135,10 @@
 - [[Data Structure] 이진 탐색 트리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/%5BData%20Structure%5D%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.md)
 - [[Data Structure] Trie(트라이) 자료구조](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data%20Structure/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
 
-<br>
-<br>
   
-  # 3. Language
-  👏 Java <br>
-  👏 Kotlin <br>
-  <br><br>
+# 3. Language
 
- 
-<h2 align="center"> Java </h2>
+## Java
 
 - [[Java] Call by value ve Call by Reference](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [[Java] String, StringBuilder, StringBuffer 차이](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20String%2CStringBuilder%2CStringBuffer%20%EC%B0%A8%EC%9D%B4.md)
@@ -195,9 +163,7 @@
 - [[Java] equals() 메소드 동작 원리](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/%5BJava%5D%20equals()%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 - [[Java] Integer vs int size 비교](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Java/Integer%20vs%20int.md)
 
-<br>
-
-<h2 align="center"> Kotlin </h2>
+## Kotlin
 
 - [let, apply, run, with의 차이점](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/%EB%B2%94%EC%9C%84%20%EC%A7%80%EC%A0%95%20%ED%95%A8%EC%88%98.md)
 - [kotlin functions](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Kotlin/kotlin_functions.md)
@@ -213,12 +179,8 @@
 - [제네릭](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4/Chapter9.%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4(Generics).md)
 - [어노테이션과 리플렉션](https://github.com/TEAM-ASC/Kotlin/blob/master/Chapter10.%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC%20%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98/10%EC%9E%A5.md)
   
-  <br>
-  <br>
 
-
-
-<h1> 4. ETC </h1>
+# 4. ETC
 <div align="center">개인적으로 유용하다고 생각되는 글이나, 사이트, 블로그 등을 아카이빙합니다. </div>
 
 
