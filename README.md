@@ -6,37 +6,21 @@
 
 <div align="center"> <h1> READY FOR TECH INTERVIEW </div>
   
-  <div align="center"> 이 곳은 신입 개발자에게 필요한 지식을 정리하는 공간입니다. <br>
+  <div align="center"> 이 곳은 신입 혹은 주니어 개발자에게 필요한 지식을 정리하는 공간입니다. <br>
     지식의 확장을 넘어서 기술 면접을 준비함에 있어서 도움이 되기를 바랍니다.<br>
-이 곳은 개인적인 공간이 아닌 여러분들과 함께 채워나갈 수 있기에,<br>issue와 Pull Request를 통해 이 레퍼지토리의 컨트리뷰터가 되어주세요. <br>
+개인적인 공간이 아니라 여러분들과 함께 채워나갈 수 있기에,<br>issue와 Pull Request를 통해 이 레퍼지토리의 컨트리뷰터가 되어주세요. <br>
 내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙏  </div>
 
 ----
 
 <div align=center>
 
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-  [![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
-  [![SINCE](https://img.shields.io/badge/Since-2020.01.26-red)](https://github.com/WooVictory/Ready-For-Tech-Interview)
+[![SINCE](https://img.shields.io/badge/Since-2020.01.26-red)](https://github.com/WooVictory/Ready-For-Tech-Interview)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
 
 </div>
 
-
-``` markdown
-
-🎉 2020.04.30 : Star 100 
-🎉 2020.06.09 : Star 200
-🎉 2020.07.01 : Star 300 
-🎉 2020.08.15 : Star 400
-🎉 2020.10.06 : Star 500 
-🎉 2020.11.10 : Star 600 
-🎉 2020.12.11 : Star 700
-🎉 2021.01.09 : Star 800 
-🎉 2021.02.13 : Star 900
-🎉 2021.03.21 : Star 1000
-🎉 2021.05.25 : Star 1300
-```
    <br><br>
 ## 👨‍👩‍👦‍👦 Contributer
 
