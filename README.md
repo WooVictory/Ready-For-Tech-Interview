@@ -92,8 +92,6 @@
 - [페이지 교체 알고리즘](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/PageReplacement.md)
 - [단편화](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%EB%8B%A8%ED%8E%B8%ED%99%94.md)
 - [IPC(Inter Process Communication)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/IPC(Inter%20Process%20Communication).md)
-- [메모리]()
-- [캐시의 지역성]()
 
 ## DataBase
 
@@ -105,7 +103,6 @@
 - [이상(Anomaly)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B4%EC%83%81(Anomaly).md)
 - [인덱스(INDEX)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(INDEX).md)
 - [트랜잭션](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
-- [트랜잭션 격리수준]()
 
 ## Network
 
